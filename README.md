@@ -1,4 +1,4 @@
-# Parayrace-Ai
+# ParaTrace-Ai
 # Content matching & Plagiarism Detection System – AI-Powered Content Integrity Suite
 
 A full-stack AI-powered web application for detecting plagiarism, identifying AI-generated content, and intelligently paraphrasing to ensure originality. Built with Spring Boot, Python microservices, and a responsive frontend, this system is designed for high accuracy, performance, and security.
